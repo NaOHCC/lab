@@ -1,0 +1,12 @@
+[submodule "flash-attention"]
+	path = flash-attention
+	url = https://github.com/NaOHCC/vllm-flash-attention.git
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/NaOHCC/vllm.git
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/NaOHCC/pytorch.git
+[submodule "deepplan"]
+	path = deepplan
+	url = https://github.com/NaOHCC/deepplan.git
