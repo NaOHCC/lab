@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "vllm",
+        },
+        {
+            "path": "deepplan"
+        },
+        {
+            "path": "pytorch"
+        },
+        {
+            "path": "flash-attention"
+        }
+    ],
+    "settings": {
+        "python.terminal.activateEnvironment": false,
+    }
+}
